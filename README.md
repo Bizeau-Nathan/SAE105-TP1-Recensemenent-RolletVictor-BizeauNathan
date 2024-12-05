@@ -6,6 +6,6 @@ Pour cela, nous avons donc développer deux scripts permettant d'afficher les é
 
 Nous avons également joint les graphiques corresponds au résultats de ces deux questions, auxquelles nous pouvons répondre : 
 
-Les populations de la ville d'Auxerre et du département de l'Yonne on bien diminué sur les 15 années étudiées.
+Les populations de la ville d'Auxerre et du département de l'Yonne ont bien diminué sur les 15 années étudiées (2008-2023).
 
 @Rollet Victor & Bizeau Nathan
